@@ -1,0 +1,153 @@
+================================================================================ Date and Time , 2024-12-28 14:56:30.910027 ================================================================================
+Resource Monitor
+CPU Usage: 24.6 %
+Memory Usage: 78.6 %
+Disk Usage: 37.9 %
+Network I/O: Sent: 73717360 bytes, Received: 460361838 bytes
+
+
+
+===== Date and Time , 2024-12-28 14:57:05.164760 =====
+Resource Monitor
+CPU Usage: 2.0 %
+Memory Usage: 79.3 %
+Disk Usage: 37.9 %
+Network I/O: Sent: 74214391 bytes, Received: 460699412 bytes
+
+
+
+===== Date and Time , 2024-12-28 14:57:12.168292 =====
+Resource Monitor
+CPU Usage: 3.1 %
+Memory Usage: 79.2 %
+Disk Usage: 37.9 %
+Network I/O: Sent: 74242655 bytes, Received: 460720359 bytes
+
+
+
+===== Date and Time , 2024-12-28 14:57:19.174313 =====
+Resource Monitor
+CPU Usage: 4.6 %
+Memory Usage: 79.3 %
+Disk Usage: 37.9 %
+Network I/O: Sent: 74255223 bytes, Received: 460732991 bytes
+
+
+
+===== Date and Time , 2024-12-28 14:57:26.178336 =====
+Resource Monitor
+CPU Usage: 19.5 %
+Memory Usage: 79.1 %
+Disk Usage: 37.9 %
+Network I/O: Sent: 74276106 bytes, Received: 460753332 bytes
+
+
+
+===== Date and Time , 2024-12-28 14:57:33.181832 =====
+Resource Monitor
+CPU Usage: 12.3 %
+Memory Usage: 79.1 %
+Disk Usage: 37.9 %
+Network I/O: Sent: 74330259 bytes, Received: 460804091 bytes
+
+
+
+===== Date and Time , 2024-12-28 14:57:40.188956 =====
+Resource Monitor
+CPU Usage: 13.5 %
+Memory Usage: 79.2 %
+Disk Usage: 37.9 %
+Network I/O: Sent: 74351997 bytes, Received: 460826137 bytes
+
+
+
+===== Date and Time , 2024-12-28 14:57:47.192676 =====
+Resource Monitor
+CPU Usage: 2.0 %
+Memory Usage: 79.4 %
+Disk Usage: 37.9 %
+Network I/O: Sent: 74427404 bytes, Received: 460896587 bytes
+
+
+
+===== Date and Time , 2024-12-28 14:57:54.196168 =====
+Resource Monitor
+CPU Usage: 42.2 %
+Memory Usage: 80.2 %
+Disk Usage: 37.9 %
+Network I/O: Sent: 74511317 bytes, Received: 460982201 bytes
+
+
+
+===== Date and Time , 2024-12-28 14:58:01.200743 =====
+Resource Monitor
+CPU Usage: 5.7 %
+Memory Usage: 79.8 %
+Disk Usage: 37.9 %
+Network I/O: Sent: 74545799 bytes, Received: 461016690 bytes
+
+
+
+===== Date and Time , 2024-12-28 14:58:08.204779 =====
+Resource Monitor
+CPU Usage: 1.5 %
+Memory Usage: 79.7 %
+Disk Usage: 37.9 %
+Network I/O: Sent: 74577296 bytes, Received: 461032120 bytes
+
+
+
+===== Date and Time , 2024-12-28 14:58:15.208340 =====
+Resource Monitor
+CPU Usage: 8.7 %
+Memory Usage: 79.6 %
+Disk Usage: 37.9 %
+Network I/O: Sent: 74609614 bytes, Received: 461064867 bytes
+
+
+
+===== 2024-12-28 14:58:27.574963 =====
+Resource Monitor
+CPU Usage:    1.5 %
+Memory Usage: 79.4 %
+Disk Usage:   37.9 %
+Network I/O:  Sent: 74662110 bytes, Received: 461115595 bytes
+
+
+
+===== 2024-12-28 14:58:38.705913 =====
+Resource Monitor
+CPU Usage:    3.6 %
+Memory Usage: 79.6 %
+Disk Usage:   37.9 %
+Network I/O:  Sent: 74722198 bytes, Received: 461173923 bytes
+
+
+
+===== 2024-12-28 14:58:45.712007 =====
+Resource Monitor
+CPU Usage:    6.1 %
+Memory Usage: 78.5 %
+Disk Usage:   37.9 %
+Network I/O:  Sent: 74740810 bytes, Received: 461187451 bytes
+
+
+
+===== 2024-12-28 14:58:52.719167 =====
+Resource Monitor
+CPU Usage:    6.3 %
+Memory Usage: 78.6 %
+Disk Usage:   37.9 %
+Network I/O:  Sent: 74783572 bytes, Received: 461231321 bytes
+
+
+
+===== 2024-12-28 14:58:59.747023 =====
+Resource Monitor
+CPU Usage:    6.6 %
+Memory Usage: 78.6 %
+Disk Usage:   37.9 %
+Network I/O:  Sent: 74847440 bytes, Received: 461297400 bytes
+
+
+
