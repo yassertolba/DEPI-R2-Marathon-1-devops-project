@@ -2,11 +2,11 @@
 This project monitors system resource utilization including CPU, memory, disk, and network I/O. It also logs the resource usage data to a file.
 
 ## Files
-●	resource_monitor.py: This Python script contains functions to get CPU usage, memory usage, disk usage, and network I/O statistics. It also includes a loop to continuously monitor the system resources and write the data to a log file.
-●	Dockerfile: This file defines the instructions for building a Docker image that runs the resource_monitor.py script.
-●	requirements.txt: This file lists the Python libraries required by the project.
-●	resource_monitor_logs.txt: This file stores the logged system resource usage data.
-●	docker-compose.yml: This file defines the configuration for running the resource monitor application in a Docker container using Docker Compose.
+1.	resource_monitor.py: This Python script contains functions to get CPU usage, memory usage, disk usage, and network I/O statistics. It also includes a loop to continuously monitor the system resources and write the data to a log file.
+2.	Dockerfile: This file defines the instructions for building a Docker image that runs the resource_monitor.py script.
+3.	requirements.txt: This file lists the Python libraries required by the project.
+4.	resource_monitor_logs.txt: This file stores the logged system resource usage data.
+5.	docker-compose.yml: This file defines the configuration for running the resource monitor application in a Docker container using Docker Compose.
 
 ## How it works
 1.	The resource_monitor.py script imports the necessary libraries (psutil, datetime, time).
